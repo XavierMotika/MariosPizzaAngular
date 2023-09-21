@@ -1,0 +1,4 @@
+article > * {
+  display: flex;
+  flex: 1 100%;
+}

@@ -1,0 +1,57 @@
+main {
+  display: flex;
+  flex-direction: column;
+  background-color: #3b438b;
+  flex: 1;
+}
+
+label {
+  color: #ffc921;
+  padding-left: 10%;
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+}
+
+form {
+  display: flex;
+  flex-flow: column;
+}
+
+input {
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 1%;
+  font-size: x-large;
+}
+
+a {
+  color: #ffc921;
+  font-size: larger;
+  margin-right: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  align-self: flex-end;
+  font-weight: bolder;
+}
+
+button {
+  display: inline;
+  font-size: x-large;
+  font-weight: bold;
+  color: #3b438b;
+  background-color: #ffc921;
+  align-self: flex-end;
+  margin-right: 10%;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+div {
+  margin-left: 10%;
+  padding: 1%;
+  font-size: large;
+  color: #ffffff;
+}

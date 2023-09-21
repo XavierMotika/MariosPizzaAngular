@@ -1,0 +1,13 @@
+header {
+  background-color: #3b438b;
+  display: flex;
+  justify-content: space-between;
+}
+
+img.img-header {
+  width: 20%;
+}
+
+h1 {
+  color: #ffc921;
+}
