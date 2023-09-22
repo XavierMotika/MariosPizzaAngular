@@ -2,3 +2,7 @@ article > * {
   display: flex;
   flex: 1 100%;
 }
+
+app-header {
+  width: 100%;
+}

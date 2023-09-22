@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: white;
+  padding: 2%;
+  margin: 1%;
+}
+
+button {
+  font-size: larger;
+  width: 10%;
+}
